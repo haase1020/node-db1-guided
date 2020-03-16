@@ -2,7 +2,7 @@
 
 In this project we will cover the basics of `Structure Query Language (SQL)`, `Relational Databases`, and `Knex.js Queries`.
 
-## Prerequisites
+## Prerequisites March 16, 2020
 
 - [SQLite Studio Installed](https://sqlitestudio.pl/index.rvt?act=download).
 
